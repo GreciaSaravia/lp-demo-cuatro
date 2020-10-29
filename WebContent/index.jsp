@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Sistema Educativo Cibertec</h1>
-<h2>Grecia Saravia</h2>
+<h2>Grecia Saravia Salazar</h2>
 
 
 </body>
